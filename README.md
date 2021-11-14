@@ -1,6 +1,6 @@
 👋 Hi, My name is Thanh Le
 
-💻 I’m currently learning Computer Science in [VNUHCM - University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+💻 I’m currently studying Computer Science in [VNUHCM - University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
 <!-- 👨‍💻 I have basic knowledge in `Machine Learning` `Android App` -->
 
