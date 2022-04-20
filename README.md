@@ -8,7 +8,6 @@
 
 👻 Funfact: I am a good girl, love to cook and make handmade things.
 
-[![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhthanhthile)](https://github.com/thanhthanhthile/github-readme-stats)
 ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhthanhthile&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhthanhthile&layout=compact)](https://github.com/thanhthanhthile/github-readme-stats)
