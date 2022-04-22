@@ -1,8 +1,12 @@
+<h1 align="center">
+  <b>Le Thi Thanh Thanh</b>
+</h1>
+
 👋 Hi, My name is Thanh Le
 
 💻 I’m currently studying Computer Science in [VNUHCM - University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
-<!-- 👨‍💻 I have basic knowledge in `Machine Learning` `Android App` -->
+👨‍💻 I have basic knowledge in `Machine Learning` `Computer Vision` 
 
 📫 Reach me at: thanhthanh08022001@gmail.com or 19520954@gm.uit.edu.vn
 
