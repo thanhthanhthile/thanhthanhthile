@@ -6,7 +6,7 @@
 
 💻 I’m currently studying Computer Science in [VNUHCM - University of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
-👨‍💻 I have basic knowledge in `Machine Learning` `Computer Vision` 
+👨‍💻 I have basic knowledge in `Machine Learning` `Deep Learning` `Computer Vision`
 
 📫 Reach me at: thanhthanh08022001@gmail.com or 19520954@gm.uit.edu.vn
 
